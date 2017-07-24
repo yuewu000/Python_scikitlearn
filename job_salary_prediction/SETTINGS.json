@@ -1,0 +1,13 @@
+{
+    "train_f_data_path": "D:/job/indeed_data_science_exercise/RFC1/train_f.csv",
+    "train_s_data_path": "D:/job/indeed_data_science_exercise/RFC1/train_s.csv",
+    "test_data_path": "D:/job/indeed_data_science_exercise/RFC1/test_f.csv",
+    "company_indx_path": "D:/job/indeed_data_science_exercise/RFC1/company_indx.csv",
+    "jobtype_indx_path": "D:/job/indeed_data_science_exercise/RFC1/jobType_indx.csv",
+    "degree_indx_path": "D:/job/indeed_data_science_exercise/RFC1/degree_indx.csv",
+    "major_indx_path": "D:/job/indeed_data_science_exercise/RFC1/major_indx.csv",
+    "industry_indx_path": "D:/job/indeed_data_science_exercise/RFC1/industry_indx.csv",
+    "train_data_path": "D:/job/indeed_data_science_exercise/RFC1/train9merge.csv",
+    "prediction_path": "D:/job/indeed_data_science_exercise/RFC1/job_salary_prediction.csv"
+}
+
